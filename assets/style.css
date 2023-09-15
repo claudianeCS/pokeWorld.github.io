@@ -19,7 +19,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url('assets/img/image_2.png');
+    background-image: url('./img/image_2.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -32,7 +32,7 @@ body{
     margin-left: 1%;
 }
 .sec-Yo97{
-    background-image: url('assets/img/backimg.png');
+    background-image: url('./img/backimg.png');
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -207,7 +207,7 @@ body{
 
 @media screen and (max-width: 576px) {
     body{
-        background-image: url('assets/img/image_1.png') !important;
+        background-image: url('./img/image_1.png') !important;
         width: 100%;      
     }
     .sec-Yo97{
